@@ -2,7 +2,7 @@
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 ## NAME: Sanjai S
 ## REGISTER NO:212223230186
-# Date:26/04/2025
+# Date:16/05/25
 
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
